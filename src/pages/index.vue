@@ -368,7 +368,7 @@ export default {
      * 相关新闻切换
      */
     newsTab(type) {
-      if (type == "left") {
+      if (type == "right") {
         this.relatedNewsStatus >= 0 && --this.relatedNewsStatus;
       } else {
         this.relatedNewsStatus < 0 && ++this.relatedNewsStatus;

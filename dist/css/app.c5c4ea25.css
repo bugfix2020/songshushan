@@ -1,0 +1,1 @@
+body,html{height:auto}.appView{position:absolute;width:100%;transition:opacity .3s ease-out}.slide-left-enter{transform:translate(100%)}.slide-left-leave-active,.slide-right-enter{transform:translate(-50%)}.slide-right-leave-active{transform:translate(100%)}
